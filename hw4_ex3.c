@@ -15,8 +15,7 @@ int main(){
 
     int len = strlen(string);
     int tail = 10;
-    
+return 0;
 
-    
 
 }
