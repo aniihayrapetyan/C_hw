@@ -24,5 +24,5 @@ printf("without pointer %d\n", x);
 
 y = change_num_pointer(&x);
 printf("with pointer %d\n", x);
-
+return 0;
 }
