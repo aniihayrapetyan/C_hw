@@ -19,6 +19,6 @@ int main(){
         printf("%c ", *ptr_alphabet);
         ptr_alphabet++;
     }
-
+return 0;
 
 }
