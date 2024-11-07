@@ -28,7 +28,10 @@ void expand(char s1[], char s2[]) {
             for (c = s1[i-1] + 1; c < s1[i+1]; c++) {
                 s2[j++] = c;
             }
+       return 0;
         }
+        
+        
     }
 
     s2[j] = '\0';  
