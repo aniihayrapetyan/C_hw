@@ -44,4 +44,5 @@ void escape (char s[], char t[]){
 
     
     printf("%s", t);
+return 0;
 }
