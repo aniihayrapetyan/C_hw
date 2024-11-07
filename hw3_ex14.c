@@ -36,5 +36,7 @@ int main(){
             printf("%d,", array[i]);
         }
     }
+
     printf("]");
+    return 0; 
 }
