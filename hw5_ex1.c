@@ -57,7 +57,7 @@ int main(){
         printf("The sum of the times is %d:%d:%d", first_time.hours, first_time.minutes, first_time.seconds);
 
     }
-    
+    return 0;
 
 
 }
